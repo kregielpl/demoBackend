@@ -13,15 +13,13 @@
         "symfony/dotenv": "5.0.*",
         "symfony/flex": "^1.3.1",
         "symfony/framework-bundle": "5.0.*",
+        "symfony/maker-bundle": "^1.16",
         "symfony/monolog-bundle": "^3.5",
         "symfony/orm-pack": "^1.0",
         "symfony/security-bundle": "5.0.*",
         "symfony/swiftmailer-bundle": "^3.4",
         "symfony/twig-pack": "^1.0",
         "symfony/yaml": "5.0.*"
-    },
-    "require-dev": {
-        "symfony/maker-bundle": "^1.16"
     },
     "config": {
         "preferred-install": {
